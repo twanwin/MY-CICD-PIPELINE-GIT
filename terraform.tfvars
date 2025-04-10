@@ -1,0 +1,2 @@
+github_token = "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"
+github_owner = "twanwin"
