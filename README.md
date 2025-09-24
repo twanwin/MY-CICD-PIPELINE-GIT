@@ -19,3 +19,8 @@ It’s designed to showcase modern DevOps practices, from Infrastructure as Code
 ---
 
 ## 📂 Project Structure
+├── main.tf # Terraform main configuration
+├── variables.tf # Input variables
+├── terraform.tfvars # Default variable values
+├── .github/workflows/ # GitHub Actions CI/CD pipeline
+└── README.md # Project documentation
